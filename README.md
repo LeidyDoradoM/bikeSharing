@@ -77,6 +77,7 @@ Female and male patterns in the heatmap follow the same trend shown in figures 4
 Finally, we want to see how the number of bike trips are broken down by gender for each day of the week and by each User type. Figure 7 shows the corresponding heatmap.
 
 ![Checkout](https://raw.githubusercontent.com/LeidyDoradoM/bikeSharing/main/Images/UserTripsbyGender.png)
+
 Figure 7. Trips by Usertype and Gender Heatmap.
 
 As it was expected Customer Usertypes do not show any peak hours of bike usage. On the contrary, for subscribers, and specifically for male-subscribers, there are more use of bikes for every day of the week with respect to the female and unknown subscribers.
